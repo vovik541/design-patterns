@@ -1,8 +1,8 @@
-package creational.singleton.non_thread_safe;
+package creational.singleton.thread_safe;
 
-public class MultiThread {
+public class DemoMultiThread {
     public static void main(String[] args) {
-        System.out.println("2 singletons were created (FIRST / SECOND). Works only thread local." + "\n\n" +
+        System.out.println("Singleton would be reused (FIRST/FIRST)" + "\n\n" +
                 "RESULT:" + "\n");
         Thread firstThread = new Thread(new FirstThread());
         Thread secondThread = new Thread(new SecondThread());
