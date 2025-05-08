@@ -1,4 +1,4 @@
-package creational.singleton.non_thread_safe;
+package creational.singleton.non_thread_safe_example;
 
 public class DemoMultiThread {
     public static void main(String[] args) {

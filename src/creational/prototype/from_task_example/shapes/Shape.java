@@ -1,4 +1,4 @@
-package creational.prototype.shapes;
+package creational.prototype.from_task_example.shapes;
 
 import java.util.Objects;
 

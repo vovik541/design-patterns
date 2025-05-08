@@ -1,8 +1,8 @@
-package creational.prototype;
+package creational.prototype.from_task_example;
 
-import creational.prototype.shapes.Circle;
-import creational.prototype.shapes.Rectangle;
-import creational.prototype.shapes.Shape;
+import creational.prototype.from_task_example.shapes.Circle;
+import creational.prototype.from_task_example.shapes.Rectangle;
+import creational.prototype.from_task_example.shapes.Shape;
 
 import java.util.ArrayList;
 import java.util.List;

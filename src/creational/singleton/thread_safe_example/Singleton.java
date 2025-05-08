@@ -1,4 +1,4 @@
-package creational.singleton.thread_safe;
+package creational.singleton.thread_safe_example;
 
 public final class Singleton {
     // Volatile so that double check lock would work correctly.

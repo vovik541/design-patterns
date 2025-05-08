@@ -1,4 +1,4 @@
-package creational.prototype.shapes;
+package creational.prototype.from_task_example.shapes;
 
 public class Rectangle extends Shape {
     public int width;
