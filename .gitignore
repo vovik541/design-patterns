@@ -1,6 +1,7 @@
 # Ignore Maven build output
-target/
-**/target/
+
+out/
+**/out/
 
 # Maven wrapper
 .mvn/wrapper/maven-wrapper.jar
