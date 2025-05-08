@@ -1,7 +1,7 @@
-package creational.builder.from_guru_example.components;
+package creational.builder.from_task_example.components;
 
 
-import creational.builder.from_guru_example.cars.Car;
+import creational.builder.from_task_example.cars.Car;
 
 
 public class TripComputer {

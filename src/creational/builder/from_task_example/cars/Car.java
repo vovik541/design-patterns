@@ -1,10 +1,10 @@
-package creational.builder.from_guru_example.cars;
+package creational.builder.from_task_example.cars;
 
 
-import creational.builder.from_guru_example.components.Engine;
-import creational.builder.from_guru_example.components.GPSNavigator;
-import creational.builder.from_guru_example.components.Transmission;
-import creational.builder.from_guru_example.components.TripComputer;
+import creational.builder.from_task_example.components.Engine;
+import creational.builder.from_task_example.components.GPSNavigator;
+import creational.builder.from_task_example.components.Transmission;
+import creational.builder.from_task_example.components.TripComputer;
 
 
 public class Car {

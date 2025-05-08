@@ -1,11 +1,11 @@
-package creational.builder.from_guru_example;
+package creational.builder.from_task_example;
 
 
-import creational.builder.from_guru_example.builders.CarBuilder;
-import creational.builder.from_guru_example.builders.CarManualBuilder;
-import creational.builder.from_guru_example.cars.Car;
-import creational.builder.from_guru_example.cars.Manual;
-import creational.builder.from_guru_example.director.Director;
+import creational.builder.from_task_example.builders.CarBuilder;
+import creational.builder.from_task_example.builders.CarManualBuilder;
+import creational.builder.from_task_example.cars.Car;
+import creational.builder.from_task_example.cars.Manual;
+import creational.builder.from_task_example.director.Director;
 
 
 public class Demo {

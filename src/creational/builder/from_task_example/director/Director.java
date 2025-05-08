@@ -1,12 +1,12 @@
-package creational.builder.from_guru_example.director;
+package creational.builder.from_task_example.director;
 
 
-import creational.builder.from_guru_example.builders.Builder;
-import creational.builder.from_guru_example.cars.CarType;
-import creational.builder.from_guru_example.components.Engine;
-import creational.builder.from_guru_example.components.GPSNavigator;
-import creational.builder.from_guru_example.components.Transmission;
-import creational.builder.from_guru_example.components.TripComputer;
+import creational.builder.from_task_example.builders.Builder;
+import creational.builder.from_task_example.cars.CarType;
+import creational.builder.from_task_example.components.Engine;
+import creational.builder.from_task_example.components.GPSNavigator;
+import creational.builder.from_task_example.components.Transmission;
+import creational.builder.from_task_example.components.TripComputer;
 
 
 public class Director {
